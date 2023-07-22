@@ -1,6 +1,7 @@
 * {
     font-family: Helvetica, Arial, sans-serif;
-    background-color: rgb(234, 234, 234);
+    background-color: #111418;
+    color: #d46e32;
   }
   
   body {
@@ -10,12 +11,12 @@
   input {
     background-color: white;
     border-radius: 5px;
-    border: 1px solid rgb(97, 32, 158);
+    border: 1px solid #d46e32;
     color: black;
     font-size: 1.2rem;
     outline: none;
     padding: 10px 15px;
-    width: 100%;
+    width: 98%;
   }
   
   h2 {
@@ -51,6 +52,7 @@
   
   .card p {
     background-color: white;
+    color: black;
     flex: 1;
     font-size: 1.5rem;
     margin-top: 5px;
